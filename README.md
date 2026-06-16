@@ -17,4 +17,4 @@ win update (old win updates)
 ```
 
 <u>i code for fun/hobby so don't expect perfection, enjoy :D<u/>  
-*virustotal hash: (9a69a1be280b6027a6febcd0b484cacd6c278430f68abe048a8bdccff5169596)*
+*virustotal hash: (ac72ef7631e778df5ce00ddd2f065ea17ce12c2487a7fb93c02c649f07b054c0)*
